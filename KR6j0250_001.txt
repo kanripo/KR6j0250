@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:47.804208
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:40
 #+TITLE: 佛說一切佛攝相應大教王經聖觀自在菩薩念誦儀軌
 #+PROPERTY: CBETA_ID T20n1051
 #+PROPERTY: ID KR6j0250
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1051
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0250_T_000-0064a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0250_T_001-0064a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1051¶
-
- 佛說一切佛攝相應大教王經聖¶
+No. 1051¶
+佛說一切佛攝相應大教王經聖¶
 觀自在菩薩念誦儀軌一卷¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
@@ -25,9 +24,9 @@ No.1051¶
 「　我今歸命佛菩薩
 　演彼相應大教王¶
 　略述觀音菩薩儀
-　能成所作利群品
+　能成所作利群品」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊。為欲利益諸眾生故。演說諸佛相¶
 應大教。佛言若阿闍梨及與行人。為欲修行¶
@@ -48,9 +47,9 @@ No.1051¶
 「　譬如清淨妙色蓮
 　雖生泥中不可染¶
 　如是眾生處煩惱
-　悉得清淨於三界
+　悉得清淨於三界」
 #+END_VERSE
-」¶
+¶
 
 誦伽陀已。自想頂戴寶冠。內有無量壽佛。¶
 次於本心想出開敷白蓮華。於彼華上想有¶
